@@ -1,0 +1,11 @@
+[0mGET / [31m500[0m 459.295 ms - 1803[0m
+[0mGET / [31m500[0m 222.758 ms - 1803[0m
+[0mGET /register [33m404[0m 14.333 ms - 147[0m
+[0mGET /sign-in [33m404[0m 15.117 ms - 146[0m
+[0mGET /users/sign-in [31m500[0m 39.181 ms - 2411[0m
+[0mGET /users/sign-in [31m500[0m 29.909 ms - 2411[0m
+[0mGET /users/sign-up [31m500[0m 189.220 ms - 2461[0m
+[0mGET / [31m500[0m 354.868 ms - 1803[0m
+[0mGET /users/sign-in [31m500[0m 24.468 ms - 2411[0m
+[0mGET / [31m500[0m 167.502 ms - 1803[0m
+[0mGET /users/sign-in [31m500[0m 77.149 ms - 2411[0m
